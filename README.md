@@ -1,8 +1,8 @@
 # domainWatcher
 Please make sure you have created the following folders on your root directory
 
-content/
-log/
+### content/
+### log/
 
 Please run the execute.php file
 
